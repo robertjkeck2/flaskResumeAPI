@@ -17,22 +17,22 @@ Endpoint | Methods | Function
 Endpoint | Methods | Function
 --- | --- | ---
 /education/ | GET, POST | Access all education info  
-/education/<int:id> | GET | Access single degree detail 
+/education/id | GET | Access single degree detail 
 
 ###Career Info
 Endpoint | Methods | Function
 --- | --- | ---
 /career/ | GET, POST | Access all career info     
-/career/<int:id> | GET | Access single job detail    
+/career/id | GET | Access single job detail    
 
 ###Projects Info
 Endpoint | Methods | Function
 --- | --- | ---
 /projects/ | GET, POST | Access all projects info   
-/project/<int:id> | GET | Access single project detail 
+/project/id | GET | Access single project detail 
 
 ###Skills Info
 Endpoint | Methods | Function
 --- | --- | ---
 /skills/ | GET, POST | Access all skills info    
-/skill/<int:id> | GET | Access single skill detail  
+/skill/id | GET | Access single skill detail  
