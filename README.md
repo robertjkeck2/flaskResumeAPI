@@ -4,9 +4,9 @@ Serves up my resume as a Flask-powered API using mod_wsgi and Apache
 ##API Reference
 
 API Root
-| Endpoint      | Methods   | Function           |
-| -------------------- | ------------ | ----------------------------- |
-| /          | GET      | Access API root index    |
+Endpoint | Methods | Function
+--- | --- | ---
+/ | GET | Access API root index 
 
 Contact Info
 |        Endpoint      |    Methods   |            Function           |
