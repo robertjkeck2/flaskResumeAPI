@@ -6,9 +6,9 @@ Serves up my resume as a Flask-powered API using mod_wsgi and Apache
 URL: http://api.robertjohnkeck.com
 
 ###API Root
-Endpoint | Methods | Function
---- | --- | ---
-/ | GET | Access API root index 
+| Endpoint | Methods | Function |
+| --- | --- | --- |
+| / | GET | Access API root index |
 
 ###Contact Info
 Endpoint | Methods | Function
