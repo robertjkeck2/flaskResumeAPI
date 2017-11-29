@@ -1,9 +1,7 @@
 # flaskResumeAPI
-Serves up my resume as a Flask-powered API using mod_wsgi and Apache
+Serves up my resume as a Flask-powered API
 
 ## API Reference
-
-URL: http://api.robertjohnkeck.com
 
 ### API Root
 | Endpoint | Methods | Function |
